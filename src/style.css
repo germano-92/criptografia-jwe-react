@@ -1,0 +1,33 @@
+#textarea {
+  width: 50%;
+  height: 30vh;
+  font-family: Arial;
+  color: #008f11;
+  background-color: black;
+  white-space: pre-line;
+  border-radius: 15px;
+}
+
+#botoes {
+  display: flex;
+  justify-content: left;
+  padding-top: 5px;
+}
+
+#tokenarea {
+  width: 50%;
+  font-family: Arial;
+  word-wrap: break-word;
+  color: #008f11;
+  white-space: pre-line;
+}
+
+#root {
+  background-color: black;
+}
+
+.erro {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
